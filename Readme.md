@@ -177,4 +177,3 @@ The major challenge was maintaining code readability and structure. Initially, I
 **Key Learnings:** Enhanced understanding of Python best practices and static analysis.
 **Future Improvements:** Add database storage, GUI, unit tests, and role-based access control.
 
- 
